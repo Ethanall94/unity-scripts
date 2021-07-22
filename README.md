@@ -15,3 +15,6 @@ script 사용 시 파일명과 script 내 class 명이 동일해야 함
 
 * TouchMove.cs
 : 터치로 캐릭터 움직이기(x, y 좌표 다 받음/ y좌표 안 받기 위한 주석코드 있음)
+
+* EscMenu.cs
+: 이전 버튼(취소 버튼)클릭 시 EscMenuSet(EscPanel:종료하시겠습니까?) 띄우기(되돌아가기, 종료하기 설정 있음)
